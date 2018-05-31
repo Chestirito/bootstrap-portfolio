@@ -1,0 +1,67 @@
+html,body{
+    background-image: url("./images/dust_scratches.png");
+}
+
+.wrapper{
+    min-height: calc(100vh - 40px);
+    padding-top: 130px;
+    padding-bottom: 30px;
+}
+.container-fluid{
+    background-color: #ffffff;
+}
+#logo{
+    background-color: #4aaaa5;
+    color: white;
+    font-weight: bold;
+}
+.bot-border{
+    border-bottom: solid #cccccc 1.5px;
+}
+.container{
+    background-color:#ffffff;
+}
+.h1{
+    color: #4aaaa5;
+}
+.portfolio img{
+    height: 100%;
+    width: 100%;
+}
+.portfolio{
+    height: 100%;
+    width: 100%;
+    position: relative;
+}
+.ptitle{
+    position: absolute;
+    bottom: 0;
+    background-color: #4aaaa5;
+    width: 100%;
+    text-align: center;
+    color: white;
+    margin-bottom: 10px;
+    padding: 15px 0px;
+}
+.ftext{
+    width: 100%;
+    margin-bottom: 10px;
+    height: 25px;
+}
+textarea.ftext{
+    height: 150px;
+}
+.btnsubmit{
+    border: 0px;
+    padding: 10px 25px;
+    background-color: #4aaaa5;
+    color: white;
+}
+body footer{
+    background-color:#666666;
+    color: #D2D2D2;
+    width:100%;
+    border-top: solid #4aaaa5 8px;
+    text-align: center;
+    height: 40px;
+}
